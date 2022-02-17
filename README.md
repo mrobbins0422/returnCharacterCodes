@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Use Javascript to return character codes.
 
 You can use the [editor on GitHub](https://github.com/mrobbins0422/returnCharacterCodes/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
